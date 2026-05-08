@@ -29,21 +29,6 @@ Diseño de APIs REST y conexión entre sistemas heterogéneos.
 
 ---
 
-## Actividad
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jorianom&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff4d2e&icon_color=ff4d2e&text_color=ffffff&border_color=222222" />
-</p>
-
----
-
-## Enfoque actual
-
-Profundizando en backend avanzado, arquitectura de software y prácticas DevOps
-para construir sistemas más robustos y escalables.
-
----
-
 ## Contacto
 
 * https://jorianom.me
